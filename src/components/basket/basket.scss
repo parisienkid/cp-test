@@ -1,0 +1,13 @@
+.basket {
+    padding: 40px;
+    height: max-content;
+    border-bottom: 1px solid #CFCFCF;
+    &__title {
+        font-style: normal;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 21px;
+        color: #000000;
+        margin-bottom: 30px;
+    }
+}

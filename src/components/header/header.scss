@@ -1,0 +1,41 @@
+.header {
+    width: 100%;
+    border-bottom: 1px solid #CFCFCF;
+    button {
+        margin-left: auto;
+        background: #fff;
+        border: none;
+    }
+    &__content {
+        max-width: 1640px;
+        margin: 0 auto;
+        width: 100%;
+        padding: 26px 30px;
+        display: flex;
+        align-items: center;
+        @media (max-width: 1280px) {
+            max-width: 1200px;
+        }
+    }
+    &__bag {
+        position: relative;
+        cursor: pointer;
+        span {
+            width: 16px;
+            height: 16px;
+            top: -4px;
+            right: -6px;
+            border-radius: 50%;
+            display: flex;
+            background: #3366FF;
+            position: absolute;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-size: 10px;
+            &[data-bounce='1'] {
+                animation: bounce .1s 1;
+            }
+        }
+    }
+}
