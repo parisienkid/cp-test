@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cp-test/static/css/main.60dc25b1.css",
+    "main.js": "/cp-test/static/js/main.11e80d86.js",
+    "static/css/202.62c01609.chunk.css": "/cp-test/static/css/202.62c01609.chunk.css",
+    "static/js/202.bac8a122.chunk.js": "/cp-test/static/js/202.bac8a122.chunk.js",
+    "static/media/Logo.svg": "/cp-test/static/media/Logo.f1e082d5155b955497897a9ada251117.svg",
+    "static/media/plus.svg": "/cp-test/static/media/plus.b096161138996a4448655693718ffc67.svg",
+    "static/media/minus.svg": "/cp-test/static/media/minus.02cd9902ae29a96288025cf503b267d7.svg",
+    "static/media/bag.svg": "/cp-test/static/media/bag.5f2b4cf93ca84db7b6d115c48424e1a2.svg",
+    "index.html": "/cp-test/index.html",
+    "static/media/loader.svg": "/cp-test/static/media/loader.a4c4276b465f667847b4055e97de82c2.svg",
+    "static/media/delete.svg": "/cp-test/static/media/delete.b6b344bc603e85ae64fbef20f9f8bd67.svg",
+    "main.60dc25b1.css.map": "/cp-test/static/css/main.60dc25b1.css.map",
+    "main.11e80d86.js.map": "/cp-test/static/js/main.11e80d86.js.map",
+    "202.62c01609.chunk.css.map": "/cp-test/static/css/202.62c01609.chunk.css.map",
+    "202.bac8a122.chunk.js.map": "/cp-test/static/js/202.bac8a122.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60dc25b1.css",
+    "static/js/main.11e80d86.js"
+  ]
+}
